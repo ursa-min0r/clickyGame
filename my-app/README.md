@@ -1,3 +1,11 @@
+# clickyGame
+
+A simple memory challenge game powered with React.
+
+Try not to click the same card twice!
+
+# startReact
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
